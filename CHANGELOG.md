@@ -1,3 +1,6 @@
+* Tolk 1.7.0 (unreleased)
+  * Switch from will_paginate to Kaminari (@dnrce)
+
 * Tolk 1.6.0
   * Rails 4.0 and 4.1 compatibility (@grk @zoombody)
   * Cleanup for the gem and safe_yaml, makes tolk a better citizen (@grk)
